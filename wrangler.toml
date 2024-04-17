@@ -15,7 +15,7 @@ rules = [
 
 [[routes]]
 # Refer to https://developers.cloudflare.com/workers/wrangler/configuration/#routes
-pattern = "pastebin-worker-7cq.pages.dev"
+pattern = "https://paste.yuanzg.link"
 custom_domain = true
 
 [[kv_namespaces]]
@@ -24,7 +24,7 @@ id = "4dfd31d63ed74ab69d654c243a4ba9ce"  # id of your KV namespace
 
 [vars]
 # must be consistent with your routes
-BASE_URL = "pastebin-worker-7cq.pages.dev"
+BASE_URL = "https://paste.yuanzg.link"
 
 # url to repo, displayed in index page
 REPO = "https://b47d3044.pastebin-worker-7cq.pages.dev"
