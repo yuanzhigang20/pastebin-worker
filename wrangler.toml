@@ -20,7 +20,7 @@ custom_domain = true
 
 [[kv_namespaces]]
 binding = "PB"  # do not touch this
-id = "cc398e983a234aa19de5ea6af571a483"  # id of your KV namespace
+id = "4dfd31d63ed74ab69d654c243a4ba9ce"  # id of your KV namespace
 
 [vars]
 # must be consistent with your routes
