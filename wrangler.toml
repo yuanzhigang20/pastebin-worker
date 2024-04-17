@@ -27,7 +27,7 @@ id = "4dfd31d63ed74ab69d654c243a4ba9ce"  # id of your KV namespace
 BASE_URL = "https://shz.al"
 
 # url to repo, displayed in index page
-REPO = "https://github.com/SharzyL/pastebin-worker"
+REPO = "https://b47d3044.pastebin-worker-7cq.pages.dev"
 
 # url to favicon
 FAVICON = "https://sharzy.in/favicon-32x32.png"
